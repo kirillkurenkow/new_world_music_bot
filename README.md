@@ -58,13 +58,13 @@ You can customize some settings there
     <tr>
         <td>mouse_press</td>
         <td><code>int</code> <code>float</code></td>
-        <td>0</td>
+        <td>0.15</td>
         <td>The time the button is pressed for in song (left + right mouse buttons) in seconds</td>
     </tr>
     <tr>
         <td>performance_end</td>
         <td><code>int</code> <code>float</code></td>
-        <td>5</td>
+        <td>7</td>
         <td>How long to wait before finishing the performance in seconds</td>
     </tr>
     <tr>
